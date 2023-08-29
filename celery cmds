@@ -1,0 +1,5 @@
+Celery cmds
+
+celery -A EventsEmail worker -l info
+
+celery -A EventsEmail beat -l info
