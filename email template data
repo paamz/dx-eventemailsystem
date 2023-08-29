@@ -1,0 +1,4 @@
+| id | event_type       | template_content                                                             |
++----+------------------+------------------------------------------------------------------------------+
+|  1 | Birthday         | Hello {name},<br><br>Wishing You Happy Birthday, {name}!                     |
+|  2 | Work Anniversary | Hello {name},<br><br>Congratulations on your {{ years }}th Work Anniversary!
